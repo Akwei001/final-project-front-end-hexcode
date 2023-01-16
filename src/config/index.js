@@ -13,6 +13,6 @@
 // export const API_URL = "https://hexcode-arrange-group-event.herokuapp.com";
 
 export const API_URL =
-    "postgresql://postgres:WzNumhXwOZUw90Ud42HE@containers-us-west-44.railway.app:8004/railway";
+    "https://postgres:WzNumhXwOZUw90Ud42HE@containers-us-west-44.railway.app:8004/railway";
 
 // "http://localhost:5000"
