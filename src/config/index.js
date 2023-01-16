@@ -12,4 +12,7 @@
 // LIVE VERSION OF BACK END SERVER
 // export const API_URL = "https://hexcode-arrange-group-event.herokuapp.com";
 
-export const API_URL = "http://localhost:5000";
+export const API_URL =
+    "postgresql://postgres:WzNumhXwOZUw90Ud42HE@containers-us-west-44.railway.app:8004/railway";
+
+// "http://localhost:5000"
